@@ -1,4 +1,4 @@
-# Mancala-Game
+# BayesianClassificationAndDecisionTrees
 This is a simple Bayesian Classifiers and Decision trees I build for a class as a proof of concept.
 
 Issues that need to me resolved:
